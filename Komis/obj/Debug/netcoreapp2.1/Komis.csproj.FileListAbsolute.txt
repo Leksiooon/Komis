@@ -1,0 +1,15 @@
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\Komis.deps.json
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\Komis.runtimeconfig.json
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\Komis.runtimeconfig.dev.json
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\Komis.dll
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\Komis.pdb
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.csprojAssemblyReference.cache
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.AssemblyInfoInputs.cache
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.AssemblyInfo.cs
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.csproj.CoreCompileInputs.cache
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.RazorAssemblyInfo.cache
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.RazorAssemblyInfo.cs
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.RazorTargetAssemblyInfo.cache
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.dll
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.pdb
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.genruntimeconfig.cache
