@@ -1,0 +1,16 @@
+﻿body {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-image: url('/images/pattern.jpg');
+    background-repeat: repeat;
+}
+
+.body-content{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image {
+    max-width: 100%;
+    max-height: 100%;
+}
