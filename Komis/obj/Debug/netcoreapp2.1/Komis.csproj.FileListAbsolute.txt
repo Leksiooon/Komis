@@ -24,3 +24,4 @@ E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.Views.pdb
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.csproj.CopyComplete
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projekty\Komis\Komis\bin\Debug\netcoreapp2.1\appsettings.json
