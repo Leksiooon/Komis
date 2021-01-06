@@ -1,4 +1,4 @@
-﻿@model Komis.ViewModels.HomeVM
+﻿@model HomeVM
 
 <div class="row" style="color: white">
     <h2>@Model.Title</h2>
@@ -13,7 +13,7 @@
                 <div class="figure-caption">
                     <h3>@samochod.Cena.ToString("c")</h3>
                     <h3>
-                        @samochod.Marka - @samochod.Model - @samochod.RokProdukcji
+                        <a asp-controller="Home" asp-action="Szczegoly" asp-route-id="@samochod.Id">@samochod.Marka</a> - @samochod.Model - @samochod.RokProdukcji
                     </h3>
                     <h4>
                         Przebieg : @samochod.Przebieg
