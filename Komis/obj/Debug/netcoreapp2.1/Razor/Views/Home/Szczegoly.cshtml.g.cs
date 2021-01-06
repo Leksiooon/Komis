@@ -74,7 +74,7 @@ using Komis.ViewModels;
             WriteLiteral("</h2>\r\n\r\n<div class=\"img-thumbnail\">\r\n    ");
             EndContext();
             BeginContext(113, 69, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ade2d38ac5604871b8be82b9a5cab27c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "de18a490464f4178b5998cbd5f42f88e", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -16,6 +16,8 @@ E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.TagHelpers.output.cache
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.RazorCoreGenerate.cache
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Home\Szczegoly.cshtml.g.cs
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Opinia\Index.cshtml.g.cs
+E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Opinia\OpiniaWyslana.cshtml.g.cs
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
@@ -26,4 +28,3 @@ E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.dll
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.pdb
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.genruntimeconfig.cache
 E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.csproj.CopyComplete
-E:\Projekty\Komis\Komis\obj\Debug\netcoreapp2.1\Komis.csprojAssemblyReference.cache
